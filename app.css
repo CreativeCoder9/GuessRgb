@@ -1,0 +1,38 @@
+#colourBox{
+    clear: both;
+    margin: 0 auto;
+    max-width: 430px;
+    /* background-color: coral; */
+    height: 285px;
+}
+.box{
+    height: 100px;
+    border: 2px solid black;
+}
+#box-1{
+    margin-right: 53.75px;
+}
+#box-3{
+    margin-left: 53.75px;
+}
+#box-4{
+    margin-right: 53.75px;
+    margin-top: 53.75px;
+}
+#box-5{
+    margin-top: 53.75px;
+}
+#box-6{
+    margin-left: 53.75px;
+    margin-top: 53.75px;
+}
+.invisible{
+    border: 0;
+    background-color: transparent;
+}
+#checkResult{
+    color: red;
+    font-size: 24px;
+    font-weight: 800;
+    margin-left: 20px;
+}
